@@ -1,0 +1,751 @@
+video,view,town,start_weather_coarse,start_timeofday_coarse,start_weather_fine,start_timeofday_fine,start_sun_altitude_angle,start_cloudiness,start_precipitation,start_precipitation_deposits,start_wind_intensity,start_sun_azimuth_angle,start_fog_density,start_fog_distance,start_wetness,start_fog_falloff
+0014-f14e,front,07,foggy,daytime,heavy fog,noon,75,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+0184-0aa5,front,04,rainy,dawn/dusk,heavy rain,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+0187-f1fc,front,05,clear,daytime,slight cloudy,noon,75,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+01dd-3619,front,10HD,clear,daytime,clear,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+01f3-988a,front,04,rainy,night,mid rain,night,-2,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+0244-0723,front,05,cloudy,daytime,partial cloudy,noon,60,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0249-4aeb,front,05,clear,daytime,slight cloudy,noon,45,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+02ad-86d6,front,07,overcast,dawn/dusk,overcast,sunrise/sunset,0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+02d9-8628,front,10HD,foggy,night,heavy fog,night,-2,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+02f6-952e,front,04,overcast,daytime,overcast,noon,75,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+030a-6c28,front,10HD,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+036c-2c82,front,03,foggy,daytime,heavy fog,noon,45,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+0401-f23a,front,06,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+047c-3671,front,05,overcast,dawn/dusk,overcast,sunrise/sunset,0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+048b-7c39,front,01,clear,night,clear,night,-2,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+054d-79e6,front,04,rainy,dawn/dusk,heavy rain,dawn/dusk,3,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+0560-db31,front,02,cloudy,daytime,partial cloudy,noon,60,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0582-39d3,front,03,cloudy,night,partial cloudy,night,-2,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0651-4082,front,03,foggy,night,heavy fog,dark night,-5,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+0707-8767,front,01,foggy,daytime,heavy fog,morning/afternoon,15,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+0716-45f3,front,05,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0780-1397,front,07,overcast,dawn/dusk,overcast,sunrise/sunset,0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+07f4-5559,front,10HD,clear,night,clear,dark night,-5,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+081d-57b2,front,05,rainy,daytime,small rain,noon,45,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+085c-0099,front,01,clear,daytime,slight cloudy,noon,45,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0891-ce3d,front,06,rainy,daytime,mid rain,noon,45,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+0924-9ba6,front,06,cloudy,daytime,partial cloudy,noon,75,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0961-6ed4,front,06,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+096a-506f,front,01,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+09e5-754c,front,07,foggy,daytime,small fog,noon,60,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+0aa1-9ffb,front,03,rainy,daytime,heavy rain,noon,75,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+0aec-30a4,front,07,rainy,daytime,heavy rain,morning/afternoon,15,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+0af3-ffd1,front,06,rainy,daytime,mid rain,noon,45,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+0b3f-0a75,front,01,clear,daytime,clear,noon,75,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0b41-ab19,front,07,cloudy,daytime,partial cloudy,noon,75,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0b68-2895,front,06,cloudy,daytime,partial cloudy,noon,60,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0c09-9847,front,07,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+0c33-25e2,front,07,clear,dawn/dusk,clear,dawn/dusk,3,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0c48-0f50,front,03,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+0c76-e5c9,front,10HD,overcast,dawn/dusk,overcast,sunrise/sunset,0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+0c8c-9dde,front,02,cloudy,daytime,partial cloudy,noon,60,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0c96-62a1,front,01,rainy,daytime,mid rain,noon,45,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+0c9b-0374,front,02,clear,daytime,slight cloudy,noon,45,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0d40-8698,front,01,rainy,daytime,mid rain,morning/afternoon,15,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+0d83-78d0,front,02,foggy,daytime,small fog,noon,60,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+0f11-267c,front,04,rainy,daytime,mid rain,noon,75,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+0f46-1c8e,front,10HD,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+0f95-15b8,front,02,rainy,night,small rain,night,-2,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+0fcc-9dfa,front,02,clear,daytime,slight cloudy,noon,45,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+1020-f071,front,06,foggy,daytime,heavy fog,noon,45,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+105c-2bd0,front,10HD,foggy,daytime,heavy fog,morning/afternoon,15,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+106d-adc3,front,01,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+10f5-610f,front,02,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+1130-5e43,front,04,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+11c7-ec53,front,02,cloudy,daytime,partial cloudy,noon,60,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+11e1-d4c8,front,07,clear,night,clear,night,-2,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+1253-bfa7,front,03,overcast,daytime,overcast,noon,45,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+1321-a8a9,front,07,rainy,daytime,mid rain,morning/afternoon,15,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+132e-10a0,front,04,foggy,dawn/dusk,heavy fog,dawn/dusk,3,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+135d-4888,front,10HD,cloudy,night,partial cloudy,night,-2,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+1516-c063,front,04,clear,night,clear,night,-2,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+155a-deac,front,04,overcast,dawn/dusk,overcast,sunrise/sunset,0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+1572-6bcf,front,05,foggy,daytime,small fog,noon,45,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+163b-cab5,front,06,overcast,daytime,overcast,noon,45,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+16d7-9cca,front,04,overcast,dawn/dusk,overcast,dawn/dusk,3,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+171b-4526,front,01,rainy,daytime,small rain,morning/afternoon,15,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+1734-5ec2,front,04,rainy,night,heavy rain,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+17bf-0e73,front,06,rainy,night,heavy rain,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+193f-9423,front,02,rainy,dawn/dusk,small rain,dawn/dusk,3,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+1942-a1fe,front,01,overcast,dawn/dusk,overcast,dawn/dusk,3,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+1977-f046,front,01,cloudy,daytime,partial cloudy,morning/afternoon,15,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+1a15-6997,front,01,foggy,night,heavy fog,dark night,-5,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+1a2c-3a7a,front,07,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+1a41-fbc2,front,07,clear,daytime,clear,noon,75,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+1ab2-2b00,front,02,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+1ab5-db38,front,02,rainy,dawn/dusk,small rain,dawn/dusk,3,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+1abe-2e2a,front,06,cloudy,night,partial cloudy,night,-2,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+1ac9-1e94,front,04,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+1b02-c447,front,06,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+1b44-7cbd,front,04,cloudy,dawn/dusk,partial cloudy,sunrise/sunset,0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+1b94-5c50,front,05,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+1ba5-c8ec,front,07,rainy,dawn/dusk,small rain,sunrise/sunset,0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+1bbb-d76b,front,05,rainy,daytime,small rain,noon,75,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+1cde-231f,front,10HD,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+1cf0-0c1d,front,06,cloudy,night,partial cloudy,night,-2,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+1d3d-8c8c,front,07,foggy,dawn/dusk,heavy fog,sunrise/sunset,0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+1d42-1a0c,front,10HD,cloudy,night,partial cloudy,dark night,-5,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+1d8b-3f5c,front,05,rainy,daytime,small rain,morning/afternoon,15,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+1d93-65dd,front,03,foggy,daytime,small fog,morning/afternoon,15,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+1db1-02d5,front,10HD,rainy,night,mid rain,dark night,-5,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+1de6-c7d8,front,01,foggy,daytime,heavy fog,noon,75,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+1df1-f1d4,front,05,foggy,daytime,heavy fog,noon,60,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+1e7b-8750,front,04,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+1e92-9404,front,07,foggy,dawn/dusk,heavy fog,dawn/dusk,3,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+1ec3-e3d9,front,05,clear,dawn/dusk,clear,dawn/dusk,3,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+1edc-96dc,front,05,foggy,daytime,heavy fog,noon,75,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+1edc-e10c,front,02,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+1f30-a740,front,06,clear,daytime,clear,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+1f46-bf48,front,10HD,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+1f63-b303,front,02,clear,daytime,clear,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+1f94-9e87,front,03,cloudy,night,partial cloudy,dark night,-5,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+1fca-754a,front,07,overcast,dawn/dusk,overcast,dawn/dusk,3,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+1ff8-f8ed,front,05,foggy,night,heavy fog,dark night,-5,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+2011-9ad1,front,02,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+2051-be93,front,06,rainy,daytime,heavy rain,noon,75,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+2083-1bcf,front,10HD,rainy,dawn/dusk,heavy rain,dawn/dusk,3,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+2095-c25e,front,07,rainy,daytime,heavy rain,noon,45,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+209b-930f,front,02,clear,night,clear,dark night,-5,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+20e2-32fd,front,02,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+213b-1457,front,01,overcast,daytime,overcast,noon,45,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+2159-81dd,front,06,cloudy,night,partial cloudy,night,-2,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+21f6-4d62,front,04,cloudy,dawn/dusk,partial cloudy,sunrise/sunset,0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+225e-4a9f,front,03,rainy,dawn/dusk,mid rain,sunrise/sunset,0,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+22a5-37fc,front,01,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+22aa-8da1,front,06,foggy,night,heavy fog,night,-2,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+2309-f29d,front,04,clear,daytime,slight cloudy,noon,75,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+2366-280e,front,01,clear,daytime,clear,noon,75,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+2399-0604,front,06,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+23ae-6d2d,front,04,clear,daytime,clear,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+23c9-d6e0,front,05,rainy,night,mid rain,night,-2,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+244c-10b8,front,03,clear,daytime,clear,noon,75,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+2482-a5fb,front,04,rainy,daytime,heavy rain,noon,75,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+2502-cb3b,front,02,foggy,night,small fog,night,-2,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+2514-a336,front,07,foggy,daytime,heavy fog,noon,45,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+2538-8acb,front,04,rainy,daytime,heavy rain,noon,60,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+2562-10fe,front,05,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+25c3-377d,front,05,foggy,daytime,heavy fog,noon,60,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+2645-c80c,front,03,clear,daytime,clear,noon,75,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+264d-6915,front,06,overcast,daytime,overcast,noon,45,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+2650-0d4f,front,02,cloudy,night,partial cloudy,dark night,-5,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+269b-ff25,front,04,foggy,dawn/dusk,heavy fog,sunrise/sunset,0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+26b0-f74b,front,04,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+2727-a850,front,05,clear,dawn/dusk,clear,sunrise/sunset,0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+2738-ecae,front,10HD,clear,daytime,clear,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+274a-7b27,front,04,clear,daytime,clear,noon,45,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+2793-d81f,front,07,cloudy,daytime,partial cloudy,noon,45,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+27c2-b333,front,05,foggy,daytime,small fog,noon,60,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+27f0-aecb,front,04,foggy,daytime,small fog,noon,75,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+286b-1f49,front,06,rainy,daytime,mid rain,morning/afternoon,15,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+28f8-30fc,front,06,rainy,dawn/dusk,heavy rain,dawn/dusk,3,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+29e8-b8bb,front,01,rainy,daytime,small rain,noon,60,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+2a51-629f,front,06,foggy,daytime,small fog,noon,75,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+2a7c-661f,front,03,foggy,daytime,heavy fog,noon,45,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+2a7c-d3a1,front,07,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+2b4d-4e1b,front,05,foggy,daytime,small fog,morning/afternoon,15,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+2bd2-5d9c,front,10HD,rainy,night,small rain,dark night,-5,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+2c17-fae7,front,05,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+2cb1-7e22,front,07,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+2d59-1ef6,front,04,overcast,daytime,overcast,noon,45,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+2d87-6366,front,06,rainy,night,mid rain,dark night,-5,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+2dd2-ed5f,front,05,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+2df6-46c4,front,10HD,cloudy,daytime,partial cloudy,noon,45,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+2e1e-8014,front,07,clear,daytime,clear,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+2e39-e31d,front,10HD,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+2fec-d1b1,front,03,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+3026-091d,front,01,overcast,daytime,overcast,noon,75,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+304b-644d,front,10HD,foggy,night,small fog,dark night,-5,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+306b-9105,front,10HD,rainy,dawn/dusk,mid rain,sunrise/sunset,0,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+3089-7f36,front,05,cloudy,daytime,partial cloudy,morning/afternoon,15,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+3143-1b20,front,04,rainy,dawn/dusk,heavy rain,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+3169-8d33,front,06,rainy,night,heavy rain,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+318d-c130,front,04,overcast,daytime,overcast,noon,75,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+31bb-503d,front,03,clear,daytime,clear,noon,45,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+31d5-c066,front,07,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+31e0-bab0,front,04,clear,dawn/dusk,slight cloudy,sunrise/sunset,0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+31fc-f9c1,front,02,rainy,daytime,mid rain,noon,45,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+321f-b28c,front,04,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+3294-7274,front,05,foggy,dawn/dusk,heavy fog,sunrise/sunset,0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+32eb-c3b4,front,07,foggy,daytime,small fog,noon,75,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+32ec-6ab1,front,06,cloudy,daytime,partial cloudy,morning/afternoon,15,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+3393-d211,front,01,clear,daytime,slight cloudy,noon,75,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+345c-699e,front,02,cloudy,daytime,partial cloudy,noon,75,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+3472-71bf,front,07,overcast,night,overcast,dark night,-5,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+34d5-cd81,front,10HD,rainy,night,heavy rain,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+351a-d24e,front,03,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+35ed-c235,front,10HD,cloudy,night,partial cloudy,dark night,-5,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+35f8-88b6,front,06,foggy,night,small fog,dark night,-5,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+362d-384e,front,01,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+3699-7ef2,front,04,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+36d2-b9a4,front,03,foggy,night,small fog,dark night,-5,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+36f7-889d,front,04,foggy,daytime,small fog,noon,45,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+3728-0f8d,front,05,foggy,daytime,heavy fog,noon,60,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+3748-1641,front,06,cloudy,daytime,partial cloudy,noon,60,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+3795-16f8,front,04,foggy,night,small fog,night,-2,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+37c7-42d1,front,02,foggy,night,small fog,dark night,-5,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+37cb-a39a,front,04,rainy,daytime,small rain,noon,45,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+388d-35c9,front,10HD,cloudy,dawn/dusk,partial cloudy,sunrise/sunset,0,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+3950-5b5f,front,10HD,cloudy,night,partial cloudy,dark night,-5,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+3a0a-dbd5,front,06,rainy,daytime,heavy rain,noon,45,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+3a0d-bcc9,front,05,rainy,daytime,small rain,noon,75,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+3a9f-8532,front,01,cloudy,daytime,partial cloudy,noon,60,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+3abb-9b3b,front,03,overcast,dawn/dusk,overcast,sunrise/sunset,0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+3b28-21ce,front,03,rainy,night,mid rain,night,-2,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+3b5c-710a,front,06,clear,daytime,clear,noon,75,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+3b88-063b,front,01,clear,daytime,slight cloudy,noon,75,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+3b97-b853,front,10HD,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+3ba2-0ec6,front,03,foggy,daytime,heavy fog,noon,45,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+3baf-f79b,front,06,foggy,night,small fog,dark night,-5,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+3bed-6be2,front,03,rainy,daytime,small rain,morning/afternoon,15,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+3ce1-91b1,front,03,rainy,dawn/dusk,mid rain,sunrise/sunset,0,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+3dce-bd90,front,06,rainy,daytime,small rain,morning/afternoon,15,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+3e34-2fd4,front,03,cloudy,night,partial cloudy,night,-2,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+3efb-b76f,front,07,foggy,daytime,small fog,noon,45,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+3f23-2442,front,01,rainy,night,mid rain,dark night,-5,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+3f39-6cfb,front,04,cloudy,daytime,partial cloudy,noon,60,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+3f63-29dc,front,06,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+3f80-cf73,front,04,clear,daytime,clear,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+3f82-ef29,front,10HD,rainy,dawn/dusk,mid rain,dawn/dusk,3,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+4013-55e3,front,04,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+41b9-b36d,front,02,foggy,night,small fog,dark night,-5,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+41c6-472f,front,07,rainy,daytime,mid rain,noon,75,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+4215-dd0a,front,05,rainy,night,small rain,night,-2,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+428a-1893,front,03,rainy,daytime,mid rain,noon,75,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+4297-b7c9,front,02,clear,daytime,slight cloudy,noon,60,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+432d-25bb,front,02,clear,dawn/dusk,clear,sunrise/sunset,0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+43ef-3efd,front,05,cloudy,night,partial cloudy,dark night,-5,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4473-0bd2,front,06,clear,night,clear,night,-2,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+44a8-4917,front,10HD,cloudy,daytime,partial cloudy,noon,45,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4551-dbf9,front,02,clear,daytime,clear,noon,60,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4623-bc50,front,05,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+4631-c81a,front,01,rainy,daytime,heavy rain,noon,45,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+4640-26eb,front,06,cloudy,night,partial cloudy,dark night,-5,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+4654-10bc,front,07,cloudy,daytime,partial cloudy,morning/afternoon,15,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+469f-aff9,front,01,cloudy,daytime,partial cloudy,noon,75,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+46c2-c9ba,front,01,foggy,dawn/dusk,heavy fog,sunrise/sunset,0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+46f8-528e,front,05,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4700-ac02,front,10HD,rainy,dawn/dusk,heavy rain,dawn/dusk,3,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+4762-f29f,front,10HD,clear,daytime,clear,noon,75,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4782-acad,front,03,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+479a-dc15,front,07,clear,dawn/dusk,clear,sunrise/sunset,0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+47c5-86ac,front,06,rainy,dawn/dusk,small rain,dawn/dusk,3,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+47e2-989e,front,04,clear,daytime,clear,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+47fb-8533,front,02,clear,daytime,clear,noon,45,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4804-4634,front,04,rainy,daytime,small rain,noon,60,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+484b-b6fc,front,03,foggy,daytime,heavy fog,noon,45,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+485f-6edf,front,10HD,rainy,daytime,heavy rain,morning/afternoon,15,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+48b4-4310,front,05,rainy,night,mid rain,night,-2,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+48f3-4ace,front,10HD,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+4908-2702,front,01,clear,night,slight cloudy,night,-2,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4952-1b1f,front,07,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+4af9-a882,front,05,clear,daytime,slight cloudy,noon,75,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4b83-8c47,front,02,cloudy,daytime,partial cloudy,morning/afternoon,15,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4b9c-266d,front,02,clear,night,slight cloudy,dark night,-5,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4bc1-e300,front,05,cloudy,night,partial cloudy,night,-2,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4c00-6529,front,10HD,overcast,dawn/dusk,overcast,dawn/dusk,3,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+4ca2-3240,front,01,clear,daytime,slight cloudy,noon,45,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4d10-ab46,front,01,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+4d19-b2a7,front,02,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+4d1f-b5ef,front,01,clear,night,clear,dark night,-5,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4d42-8eef,front,05,rainy,daytime,heavy rain,noon,75,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+4d84-523b,front,06,cloudy,daytime,partial cloudy,morning/afternoon,15,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+4daa-3a10,front,02,rainy,night,small rain,dark night,-5,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+4db1-bcb9,front,05,rainy,daytime,heavy rain,noon,60,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+4e99-a777,front,03,overcast,daytime,overcast,noon,60,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+4eed-d77e,front,03,foggy,dawn/dusk,heavy fog,dawn/dusk,3,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+4fbe-42ec,front,06,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+4fe7-a1c4,front,03,rainy,daytime,mid rain,noon,45,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+511b-72fb,front,02,clear,night,slight cloudy,dark night,-5,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+515c-519c,front,06,overcast,daytime,overcast,noon,75,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+5280-d13e,front,01,rainy,daytime,mid rain,noon,60,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+5290-743e,front,07,foggy,daytime,heavy fog,morning/afternoon,15,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+5298-8b46,front,07,cloudy,daytime,partial cloudy,noon,45,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+52e7-76a2,front,06,foggy,night,heavy fog,dark night,-5,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+546a-3199,front,02,overcast,night,overcast,dark night,-5,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+54f4-8c0a,front,07,rainy,daytime,small rain,noon,75,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+554d-ff9c,front,03,rainy,daytime,mid rain,morning/afternoon,15,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+55cf-dbfc,front,05,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+55e1-7a88,front,03,overcast,dawn/dusk,overcast,dawn/dusk,3,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+55e6-aec1,front,01,rainy,daytime,mid rain,noon,60,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+55f7-2ef0,front,03,foggy,night,heavy fog,night,-2,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+560b-532c,front,06,clear,daytime,clear,noon,45,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+5628-e62d,front,01,rainy,dawn/dusk,mid rain,sunrise/sunset,0,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+5639-cfdb,front,03,rainy,night,small rain,dark night,-5,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+5641-90db,front,02,overcast,night,overcast,dark night,-5,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+56cb-7253,front,10HD,cloudy,dawn/dusk,partial cloudy,sunrise/sunset,0,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+578f-debf,front,10HD,rainy,daytime,heavy rain,noon,60,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+579f-e871,front,01,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+57d2-84fa,front,05,foggy,dawn/dusk,heavy fog,dawn/dusk,3,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+57d6-3bc3,front,07,rainy,daytime,small rain,noon,75,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+57de-f04f,front,10HD,rainy,daytime,small rain,noon,60,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+57fa-e9c8,front,07,clear,night,slight cloudy,night,-2,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+585b-0c79,front,02,cloudy,daytime,partial cloudy,noon,75,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+58a2-dddd,front,01,overcast,dawn/dusk,overcast,sunrise/sunset,0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+5976-9b43,front,06,foggy,night,heavy fog,night,-2,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+59b8-3c52,front,02,rainy,dawn/dusk,heavy rain,dawn/dusk,3,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+5a01-1ef3,front,01,rainy,daytime,mid rain,noon,75,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+5a0a-b546,front,01,overcast,daytime,overcast,noon,75,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+5a60-a165,front,10HD,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+5a9c-78c7,front,10HD,cloudy,daytime,partial cloudy,noon,60,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+5ace-d994,front,10HD,foggy,night,small fog,night,-2,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+5ae3-c7fc,front,10HD,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+5b08-cb7a,front,06,rainy,daytime,mid rain,noon,75,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+5c17-515c,front,05,foggy,daytime,small fog,morning/afternoon,15,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+5c18-544f,front,04,rainy,dawn/dusk,heavy rain,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+5cc9-7ada,front,01,cloudy,night,partial cloudy,dark night,-5,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+5f0c-93d4,front,04,rainy,night,small rain,dark night,-5,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+5f4a-03e4,front,07,foggy,dawn/dusk,heavy fog,dawn/dusk,3,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+5f9b-a143,front,07,cloudy,night,partial cloudy,night,-2,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+5fbf-c1df,front,10HD,rainy,dawn/dusk,small rain,dawn/dusk,3,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+602e-791b,front,10HD,overcast,daytime,overcast,noon,75,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+6094-1bf5,front,10HD,clear,daytime,clear,noon,45,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+6120-2e0c,front,07,clear,daytime,slight cloudy,noon,45,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+61bd-a419,front,02,overcast,daytime,overcast,noon,60,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+6215-f61a,front,06,rainy,dawn/dusk,small rain,dawn/dusk,3,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+6222-23a9,front,05,clear,dawn/dusk,clear,dawn/dusk,3,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+626c-9e54,front,05,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+62a4-c59b,front,07,foggy,night,small fog,night,-2,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+62f8-36ae,front,01,cloudy,night,partial cloudy,dark night,-5,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+6310-2dfe,front,07,clear,daytime,clear,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+6394-359e,front,04,foggy,daytime,small fog,noon,45,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+63f6-5708,front,07,cloudy,dawn/dusk,partial cloudy,sunrise/sunset,0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+6419-37f3,front,07,rainy,night,small rain,night,-2,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+6459-454e,front,01,foggy,daytime,heavy fog,noon,45,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+645f-5a55,front,03,clear,daytime,clear,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+64a3-f5cc,front,06,cloudy,daytime,partial cloudy,morning/afternoon,15,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+64ff-5f0a,front,02,clear,daytime,clear,noon,75,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+6542-f398,front,01,foggy,daytime,heavy fog,noon,75,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+65a3-148d,front,04,foggy,daytime,heavy fog,morning/afternoon,15,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+65eb-6d5a,front,07,rainy,dawn/dusk,small rain,sunrise/sunset,0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+6644-7c3c,front,02,rainy,night,small rain,night,-2,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+66ac-46a1,front,07,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+66e2-bd20,front,06,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+6722-f0d5,front,05,cloudy,daytime,partial cloudy,morning/afternoon,15,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+67ad-7204,front,01,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+67cf-9d76,front,07,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+67ed-26d5,front,07,cloudy,daytime,partial cloudy,noon,75,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+68b5-2326,front,06,rainy,daytime,heavy rain,noon,60,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+69d6-f0c4,front,06,rainy,daytime,heavy rain,noon,75,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+6a21-7623,front,02,foggy,night,small fog,dark night,-5,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+6a21-cadd,front,06,clear,daytime,clear,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+6a2b-6248,front,07,rainy,daytime,small rain,noon,45,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+6a4d-faca,front,01,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+6a63-8579,front,01,clear,daytime,clear,noon,75,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+6a7e-16dc,front,02,clear,daytime,slight cloudy,noon,45,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+6a9a-1bba,front,02,overcast,daytime,overcast,noon,75,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+6b6c-d635,front,02,overcast,dawn/dusk,overcast,sunrise/sunset,0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+6b75-8a60,front,05,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+6ba5-19e6,front,01,cloudy,night,partial cloudy,dark night,-5,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+6d99-e055,front,05,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+6da3-52e1,front,06,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+6dd1-94a5,front,06,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+6ec6-3e00,front,10HD,foggy,daytime,heavy fog,noon,45,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+6f7a-3ded,front,06,overcast,daytime,overcast,noon,45,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+6fe6-bcc6,front,04,overcast,dawn/dusk,overcast,sunrise/sunset,0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+703e-e8a1,front,01,cloudy,daytime,partial cloudy,noon,60,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+7076-4363,front,10HD,cloudy,daytime,partial cloudy,morning/afternoon,15,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+70c5-2184,front,05,rainy,daytime,mid rain,morning/afternoon,15,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+70d8-506d,front,03,foggy,daytime,small fog,noon,45,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+7133-98ef,front,07,clear,daytime,clear,noon,60,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+7135-95b6,front,07,rainy,dawn/dusk,mid rain,sunrise/sunset,0,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+7158-6ead,front,06,rainy,daytime,mid rain,morning/afternoon,15,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+71de-6813,front,10HD,rainy,daytime,mid rain,morning/afternoon,15,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+725c-b0a9,front,03,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+7331-120a,front,03,clear,night,slight cloudy,dark night,-5,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+7346-0c1b,front,02,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+7396-479d,front,07,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+7431-6611,front,10HD,clear,daytime,clear,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+74b2-1e9a,front,10HD,cloudy,daytime,partial cloudy,noon,75,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+750e-ebe2,front,01,foggy,dawn/dusk,small fog,sunrise/sunset,0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+7586-7b87,front,03,overcast,dawn/dusk,overcast,sunrise/sunset,0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+759e-b216,front,01,clear,daytime,clear,noon,60,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+7693-f1cc,front,07,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+76b4-64bf,front,07,clear,daytime,clear,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+76d3-f588,front,10HD,cloudy,daytime,partial cloudy,noon,60,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+76e7-3c6e,front,02,foggy,daytime,heavy fog,noon,75,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+7713-1c6c,front,02,cloudy,night,partial cloudy,night,-2,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+77cd-8b77,front,02,rainy,dawn/dusk,heavy rain,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+7803-9ae0,front,07,foggy,night,small fog,night,-2,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+782e-bd1a,front,06,foggy,dawn/dusk,small fog,sunrise/sunset,0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+787d-3cc4,front,06,foggy,dawn/dusk,heavy fog,sunrise/sunset,0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+78a4-a704,front,10HD,cloudy,daytime,partial cloudy,noon,60,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+78b3-7aa4,front,02,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+7921-d8a6,front,07,rainy,daytime,heavy rain,noon,60,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+7951-aaa4,front,02,foggy,daytime,small fog,noon,45,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+79a7-3b99,front,06,rainy,daytime,mid rain,noon,60,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+7a39-2291,front,10HD,rainy,dawn/dusk,mid rain,sunrise/sunset,0,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+7ab7-4fbc,front,06,cloudy,night,partial cloudy,night,-2,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+7b60-93e4,front,01,foggy,daytime,heavy fog,noon,60,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+7b7b-9b7b,front,02,cloudy,night,partial cloudy,night,-2,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+7c19-3977,front,03,clear,night,clear,dark night,-5,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+7c7c-7c24,front,04,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+7c89-eaec,front,06,overcast,daytime,overcast,noon,45,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+7c93-0eaa,front,04,rainy,night,heavy rain,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+7d74-404e,front,02,cloudy,daytime,partial cloudy,morning/afternoon,15,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+7dab-c59e,front,02,rainy,daytime,small rain,noon,45,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+7dc5-8ede,front,05,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+7f8d-f9e9,front,01,rainy,dawn/dusk,small rain,sunrise/sunset,0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+80a9-3846,front,01,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+80ca-ee57,front,04,cloudy,daytime,partial cloudy,noon,75,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+80f5-b2e6,front,02,clear,dawn/dusk,clear,sunrise/sunset,0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+810e-0693,front,02,cloudy,night,partial cloudy,night,-2,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+8164-09f9,front,07,cloudy,daytime,partial cloudy,noon,45,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+820d-f5c0,front,01,foggy,daytime,small fog,morning/afternoon,15,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+824d-ad11,front,06,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+825f-4a03,front,04,rainy,dawn/dusk,small rain,dawn/dusk,3,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+82dc-1f63,front,05,foggy,daytime,heavy fog,noon,75,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+8313-c63b,front,10HD,rainy,daytime,heavy rain,morning/afternoon,15,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+8392-7b53,front,10HD,rainy,dawn/dusk,mid rain,sunrise/sunset,0,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+83ca-5384,front,05,rainy,daytime,small rain,morning/afternoon,15,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+841d-93be,front,01,clear,daytime,clear,noon,75,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+8445-ff01,front,10HD,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+84cf-9363,front,06,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+8539-90d0,front,01,cloudy,daytime,partial cloudy,morning/afternoon,15,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+8556-2b56,front,06,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+858c-b397,front,05,rainy,daytime,heavy rain,noon,75,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+8634-fd7f,front,01,foggy,dawn/dusk,heavy fog,sunrise/sunset,0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+869f-7f2d,front,10HD,foggy,night,small fog,night,-2,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+86c3-102b,front,04,rainy,night,small rain,night,-2,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+86c9-66ae,front,05,cloudy,daytime,partial cloudy,noon,75,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+8742-1217,front,07,clear,daytime,clear,noon,75,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+875f-3c85,front,03,clear,daytime,clear,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+8775-9ea3,front,01,overcast,daytime,overcast,noon,75,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+8776-705b,front,07,foggy,night,heavy fog,night,-2,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+885b-b0e7,front,04,foggy,daytime,heavy fog,noon,60,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+88fb-7b44,front,07,rainy,daytime,heavy rain,noon,60,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+896a-7b93,front,01,clear,night,clear,night,-2,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+8a55-c65a,front,10HD,cloudy,night,partial cloudy,night,-2,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+8aa6-4f32,front,06,rainy,night,heavy rain,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+8aba-41ff,front,01,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+8ae6-5b9e,front,05,clear,dawn/dusk,slight cloudy,sunrise/sunset,0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+8b26-c9c6,front,05,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+8b68-1566,front,07,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+8c15-e4b9,front,01,overcast,daytime,overcast,noon,45,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+8c32-b94e,front,02,clear,night,slight cloudy,dark night,-5,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+8c5b-24c1,front,10HD,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+8c8f-4c1d,front,06,rainy,daytime,small rain,noon,60,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+8cae-7cb7,front,07,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+8cee-72ca,front,04,rainy,dawn/dusk,mid rain,sunrise/sunset,0,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+8f0b-9331,front,06,clear,daytime,slight cloudy,noon,45,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+8f29-d66d,front,04,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+9070-645e,front,07,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+9083-517f,front,07,rainy,night,mid rain,night,-2,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+90f3-b719,front,04,foggy,night,small fog,night,-2,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+910f-e190,front,02,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+9124-cd80,front,04,cloudy,daytime,partial cloudy,noon,45,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+925c-5f17,front,03,cloudy,night,partial cloudy,dark night,-5,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+9319-9bd3,front,05,clear,dawn/dusk,slight cloudy,sunrise/sunset,0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+931f-8e38,front,05,clear,daytime,clear,noon,45,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+9369-40ce,front,05,cloudy,night,partial cloudy,night,-2,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+93df-849b,front,06,rainy,daytime,heavy rain,noon,45,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+93f3-a165,front,02,rainy,daytime,mid rain,morning/afternoon,15,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+94c2-13ba,front,02,cloudy,daytime,partial cloudy,noon,60,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+94c3-28eb,front,10HD,foggy,daytime,heavy fog,noon,60,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+9524-f5db,front,07,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+95a7-22d7,front,07,rainy,night,heavy rain,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+95bb-9080,front,05,overcast,daytime,overcast,noon,75,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+95f1-8bf1,front,07,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+95ff-f4f8,front,02,clear,daytime,clear,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+9709-26f5,front,06,rainy,daytime,small rain,morning/afternoon,15,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+974d-add1,front,06,rainy,dawn/dusk,small rain,dawn/dusk,3,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+9815-1541,front,05,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+9825-b038,front,03,clear,dawn/dusk,clear,dawn/dusk,3,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+98db-31c1,front,01,foggy,daytime,small fog,noon,45,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+98f7-7491,front,05,rainy,daytime,mid rain,noon,45,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+991d-18ff,front,01,rainy,daytime,mid rain,noon,75,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+9923-d4f2,front,05,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+9934-95d2,front,04,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+9966-b53e,front,07,cloudy,daytime,partial cloudy,noon,75,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+99c7-ec2c,front,01,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+9a00-8710,front,06,foggy,daytime,small fog,noon,75,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+9a4c-e86d,front,04,clear,night,slight cloudy,dark night,-5,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+9ac8-b0e9,front,03,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+9af9-d45f,front,04,clear,dawn/dusk,clear,sunrise/sunset,0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+9b72-7f11,front,07,rainy,daytime,small rain,morning/afternoon,15,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+9d67-8c4c,front,06,overcast,daytime,overcast,noon,75,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+9e04-ec91,front,02,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+9ea7-472b,front,01,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+9eaf-b782,front,06,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+9f10-2d8a,front,02,rainy,daytime,mid rain,noon,45,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+9f19-bba1,front,10HD,clear,dawn/dusk,clear,dawn/dusk,3,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+9f41-88a6,front,03,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+9f7f-3512,front,05,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+a057-dd08,front,02,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+a0de-64fb,front,05,foggy,dawn/dusk,heavy fog,dawn/dusk,3,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+a14d-8217,front,07,cloudy,daytime,partial cloudy,noon,60,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+a20e-c157,front,01,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+a249-be45,front,05,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+a26c-b68b,front,02,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+a2a7-f529,front,06,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+a354-9307,front,07,overcast,daytime,overcast,noon,60,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+a392-6543,front,10HD,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+a3b2-8e40,front,01,rainy,daytime,mid rain,noon,75,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+a3f5-1ab7,front,05,cloudy,night,partial cloudy,dark night,-5,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+a462-07ad,front,01,rainy,dawn/dusk,mid rain,sunrise/sunset,0,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+a474-b6ff,front,10HD,rainy,daytime,heavy rain,noon,45,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+a47b-66e6,front,07,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+a4b7-e555,front,02,foggy,daytime,heavy fog,noon,75,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+a561-7ae9,front,01,foggy,night,small fog,dark night,-5,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+a592-e1e0,front,01,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+a5a8-5843,front,06,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+a5ce-e414,front,05,clear,dawn/dusk,clear,sunrise/sunset,0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+a775-ad07,front,07,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+a787-91e1,front,02,cloudy,dawn/dusk,partial cloudy,sunrise/sunset,0,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+a81a-07c8,front,01,rainy,night,small rain,night,-2,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+a848-ddf4,front,02,foggy,daytime,small fog,morning/afternoon,15,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+a95e-9363,front,07,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+a973-8dfe,front,07,rainy,daytime,small rain,noon,60,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+a9ce-ccb1,front,10HD,rainy,daytime,mid rain,noon,75,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+a9db-03c1,front,05,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+a9f4-855b,front,07,clear,night,slight cloudy,night,-2,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+aa03-7e69,front,10HD,clear,night,slight cloudy,dark night,-5,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+aa92-10c9,front,03,rainy,night,small rain,dark night,-5,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+abc3-4f56,front,07,clear,dawn/dusk,clear,dawn/dusk,3,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+abdc-ea5d,front,06,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+ad39-3758,front,07,clear,daytime,clear,noon,60,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+ad3e-b78e,front,07,rainy,night,mid rain,night,-2,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+ad9a-1330,front,10HD,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+adeb-fdab,front,07,foggy,daytime,small fog,morning/afternoon,15,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+adfa-5dbc,front,01,clear,daytime,slight cloudy,noon,75,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+ae16-6911,front,10HD,clear,dawn/dusk,clear,sunrise/sunset,0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+ae31-d5bf,front,06,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+ae44-0521,front,04,clear,daytime,clear,noon,60,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+ae5b-612e,front,04,rainy,daytime,mid rain,noon,45,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+af33-6c6d,front,04,rainy,dawn/dusk,heavy rain,dawn/dusk,3,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+afcd-5801,front,02,rainy,daytime,small rain,morning/afternoon,15,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+b006-15ae,front,02,clear,daytime,clear,noon,75,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+b00e-ef6d,front,01,cloudy,daytime,partial cloudy,morning/afternoon,15,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+b108-b4af,front,05,foggy,daytime,small fog,noon,75,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+b117-a27c,front,10HD,rainy,dawn/dusk,heavy rain,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+b155-78a5,front,01,overcast,daytime,overcast,noon,60,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+b17c-88c6,front,02,cloudy,daytime,partial cloudy,noon,75,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+b1a1-1723,front,02,rainy,daytime,heavy rain,noon,75,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+b1a7-d35e,front,07,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+b20b-672c,front,01,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+b25f-4ec3,front,03,rainy,daytime,heavy rain,noon,60,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+b2b2-39c4,front,02,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+b318-e1ce,front,03,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+b350-7ae1,front,01,rainy,dawn/dusk,heavy rain,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+b3e5-b93b,front,05,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+b444-1c0d,front,10HD,overcast,daytime,overcast,noon,75,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+b50d-75eb,front,07,rainy,daytime,small rain,noon,45,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+b50d-93d9,front,05,clear,daytime,clear,noon,45,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+b52f-d421,front,03,rainy,daytime,heavy rain,noon,45,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+b550-998c,front,06,cloudy,daytime,partial cloudy,noon,45,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+b5ce-dd9a,front,07,cloudy,daytime,partial cloudy,noon,45,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+b61c-f38a,front,03,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+b72f-7424,front,02,clear,dawn/dusk,clear,sunrise/sunset,0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+b7c2-9250,front,01,clear,dawn/dusk,clear,sunrise/sunset,0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+b8e1-2b40,front,07,rainy,daytime,small rain,noon,75,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+b930-fb4c,front,10HD,rainy,night,mid rain,dark night,-5,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+b937-9d19,front,05,rainy,dawn/dusk,mid rain,sunrise/sunset,0,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+b96c-caf6,front,04,cloudy,daytime,partial cloudy,noon,75,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+ba7d-3807,front,07,clear,night,slight cloudy,night,-2,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+bb0c-c25e,front,01,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+bbbb-d719,front,01,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+bbbe-fc18,front,01,clear,daytime,clear,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+bbfb-dab8,front,02,foggy,dawn/dusk,small fog,sunrise/sunset,0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+bc7f-c813,front,06,foggy,night,heavy fog,night,-2,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+bd12-b274,front,02,rainy,daytime,small rain,noon,60,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+bd35-bb48,front,07,rainy,daytime,mid rain,noon,60,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+bd3d-4852,front,01,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+bd82-3dbb,front,03,clear,daytime,clear,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+bda8-7d13,front,06,clear,dawn/dusk,clear,dawn/dusk,3,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+bdae-ce01,front,04,clear,daytime,slight cloudy,noon,45,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+bdd0-5391,front,02,rainy,daytime,heavy rain,noon,75,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+be2e-74a9,front,02,rainy,night,small rain,dark night,-5,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+bf45-4317,front,06,rainy,daytime,heavy rain,noon,45,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+bf54-772e,front,05,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+c0fd-97bf,front,02,clear,daytime,clear,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+c17c-6676,front,01,rainy,daytime,small rain,noon,45,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+c19a-0b00,front,04,rainy,daytime,heavy rain,noon,45,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+c274-3f28,front,07,rainy,daytime,mid rain,noon,60,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+c354-f662,front,04,clear,daytime,clear,noon,45,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+c369-3541,front,01,foggy,daytime,heavy fog,noon,45,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+c38f-5da5,front,10HD,clear,daytime,clear,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+c3a5-1f66,front,02,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+c415-c8e0,front,06,clear,night,clear,dark night,-5,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+c59f-e842,front,05,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+c68b-0142,front,10HD,foggy,night,heavy fog,night,-2,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+c695-c1a0,front,06,clear,daytime,slight cloudy,noon,60,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+c6d1-fad8,front,04,cloudy,daytime,partial cloudy,noon,60,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+c6f2-439a,front,03,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+c76d-ae4c,front,06,clear,night,clear,night,-2,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+c785-5521,front,10HD,rainy,dawn/dusk,small rain,dawn/dusk,3,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+c7f1-45a5,front,04,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+c846-09c0,front,07,clear,daytime,slight cloudy,noon,45,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+c8c9-ef41,front,10HD,foggy,daytime,heavy fog,noon,75,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+c8ce-8e1a,front,04,cloudy,daytime,partial cloudy,noon,45,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+c8ce-f31f,front,10HD,foggy,daytime,heavy fog,noon,75,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+ca0b-0323,front,04,rainy,daytime,heavy rain,morning/afternoon,15,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+cae5-11b9,front,01,overcast,daytime,overcast,noon,45,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+cb46-4ef3,front,01,clear,daytime,slight cloudy,noon,60,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+cb4b-a2e8,front,04,clear,daytime,slight cloudy,noon,45,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+cb64-a948,front,03,foggy,night,small fog,dark night,-5,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+cb68-0e50,front,10HD,foggy,daytime,heavy fog,morning/afternoon,15,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+cc0b-029a,front,03,clear,dawn/dusk,slight cloudy,sunrise/sunset,0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+ccfb-b360,front,05,foggy,daytime,small fog,noon,60,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+cdb1-f831,front,10HD,clear,daytime,slight cloudy,noon,60,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+cdc1-81ef,front,05,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+cdf5-4f46,front,07,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+ce60-a0c1,front,05,clear,night,slight cloudy,dark night,-5,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+cf9d-6f58,front,06,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d040-75a7,front,10HD,cloudy,daytime,partial cloudy,morning/afternoon,15,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d07a-b607,front,03,cloudy,dawn/dusk,partial cloudy,sunrise/sunset,0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+d0b2-b92e,front,10HD,clear,dawn/dusk,clear,sunrise/sunset,0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d1ec-479b,front,06,clear,night,slight cloudy,night,-2,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d25e-7988,front,06,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+d2cd-c44d,front,05,cloudy,night,partial cloudy,night,-2,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+d31b-0c8a,front,04,foggy,night,heavy fog,night,-2,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+d33f-aceb,front,02,clear,daytime,slight cloudy,noon,75,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d3c9-05e4,front,01,foggy,night,heavy fog,night,-2,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+d3d6-9a44,front,06,overcast,night,overcast,dark night,-5,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+d3e0-5a9f,front,07,cloudy,daytime,partial cloudy,noon,60,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d3e5-6542,front,04,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d3f0-a1b4,front,05,clear,dawn/dusk,clear,sunrise/sunset,0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d452-c839,front,02,foggy,dawn/dusk,heavy fog,dawn/dusk,3,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+d45e-9477,front,02,clear,dawn/dusk,clear,sunrise/sunset,0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d469-dcd8,front,05,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+d46a-00aa,front,02,clear,daytime,clear,noon,60,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d4c2-e7ed,front,04,rainy,daytime,small rain,morning/afternoon,15,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+d4dc-f4cc,front,01,rainy,daytime,small rain,noon,45,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+d53c-a696,front,04,foggy,dawn/dusk,small fog,sunrise/sunset,0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+d578-22c2,front,01,rainy,daytime,mid rain,noon,45,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+d57c-890e,front,06,overcast,dawn/dusk,overcast,dawn/dusk,3,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+d5c1-2c40,front,01,foggy,daytime,small fog,morning/afternoon,15,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+d5da-f378,front,05,rainy,dawn/dusk,heavy rain,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+d6ec-8f46,front,01,clear,dawn/dusk,clear,dawn/dusk,3,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d6f9-3445,front,01,cloudy,daytime,partial cloudy,morning/afternoon,15,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d70a-0284,front,01,overcast,night,overcast,dark night,-5,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+d727-98ed,front,02,rainy,daytime,small rain,noon,60,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+d72c-f79a,front,06,foggy,daytime,small fog,morning/afternoon,15,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+d7e8-c756,front,05,clear,dawn/dusk,slight cloudy,sunrise/sunset,0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d7f3-15bb,front,06,cloudy,daytime,partial cloudy,morning/afternoon,15,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d898-a387,front,04,foggy,daytime,heavy fog,noon,45,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+d92a-a854,front,10HD,foggy,dawn/dusk,small fog,sunrise/sunset,0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+d931-b5c8,front,02,clear,night,slight cloudy,dark night,-5,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d959-818d,front,03,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d971-c76d,front,03,overcast,dawn/dusk,overcast,sunrise/sunset,0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+d987-6a72,front,10HD,overcast,dawn/dusk,overcast,sunrise/sunset,0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+d988-7279,front,10HD,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+da2f-cf8e,front,10HD,rainy,daytime,mid rain,morning/afternoon,15,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+da38-3571,front,05,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+dacc-c269,front,03,clear,night,clear,dark night,-5,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+daf7-d271,front,02,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+db06-9bf1,front,05,cloudy,daytime,partial cloudy,noon,75,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+db1b-b158,front,05,rainy,daytime,heavy rain,noon,45,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+dc05-4707,front,05,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+dc27-88e1,front,03,rainy,daytime,small rain,noon,45,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+dd00-e71b,front,07,foggy,dawn/dusk,heavy fog,sunrise/sunset,0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+dd3c-80d4,front,07,cloudy,dawn/dusk,partial cloudy,sunrise/sunset,0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+dd4c-ea4f,front,03,overcast,night,overcast,dark night,-5,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+dd66-b908,front,07,cloudy,daytime,partial cloudy,morning/afternoon,15,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+dd97-b557,front,01,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+ddd0-2318,front,01,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+dde8-7870,front,07,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+de76-e919,front,05,cloudy,night,partial cloudy,night,-2,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+de80-1a5d,front,02,clear,night,clear,dark night,-5,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+dff1-8e9d,front,10HD,cloudy,daytime,partial cloudy,noon,60,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+dff1-b832,front,02,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+e015-8553,front,02,foggy,daytime,heavy fog,noon,75,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+e197-a783,front,05,foggy,daytime,heavy fog,morning/afternoon,15,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+e205-39b2,front,01,cloudy,daytime,partial cloudy,morning/afternoon,15,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+e265-066f,front,02,rainy,night,small rain,night,-2,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+e2ed-ba17,front,04,clear,daytime,slight cloudy,noon,60,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+e352-ba63,front,01,foggy,daytime,small fog,morning/afternoon,15,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+e371-30f5,front,06,foggy,dawn/dusk,small fog,sunrise/sunset,0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+e387-30e2,front,05,cloudy,daytime,partial cloudy,morning/afternoon,15,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+e39c-b519,front,04,rainy,daytime,small rain,noon,75,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+e3ee-8467,front,03,cloudy,dawn/dusk,partial cloudy,sunrise/sunset,0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+e417-8d7e,front,02,rainy,daytime,mid rain,morning/afternoon,15,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+e43c-c27f,front,01,foggy,daytime,small fog,morning/afternoon,15,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+e4de-9723,front,07,cloudy,night,partial cloudy,dark night,-5,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+e52f-1ba0,front,03,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+e541-79b6,front,02,rainy,daytime,heavy rain,morning/afternoon,15,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+e652-6fbe,front,10HD,rainy,daytime,mid rain,noon,75,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+e689-c655,front,05,rainy,daytime,heavy rain,noon,60,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+e68a-8bbd,front,04,rainy,night,small rain,dark night,-5,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+e6a5-e524,front,03,cloudy,dawn/dusk,partial cloudy,sunrise/sunset,0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+e733-ceb4,front,01,overcast,daytime,overcast,noon,45,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+e772-23e7,front,10HD,rainy,daytime,small rain,noon,75,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+e775-a881,front,07,cloudy,dawn/dusk,partial cloudy,sunrise/sunset,0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+e7f0-1fce,front,01,cloudy,daytime,partial cloudy,noon,60,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+e828-c220,front,04,rainy,dawn/dusk,mid rain,dawn/dusk,3,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+e87a-d041,front,05,cloudy,night,partial cloudy,dark night,-5,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+e892-b786,front,07,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+e8b0-839f,front,04,cloudy,night,partial cloudy,dark night,-5,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+e8b2-ff0b,front,04,cloudy,night,partial cloudy,night,-2,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+e8c7-fa33,front,01,foggy,daytime,small fog,noon,60,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+e900-3439,front,06,foggy,dawn/dusk,small fog,sunrise/sunset,0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+e934-519d,front,02,clear,dawn/dusk,clear,sunrise/sunset,0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+e952-dc94,front,02,rainy,daytime,mid rain,morning/afternoon,15,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+e981-82b3,front,02,cloudy,dawn/dusk,partial cloudy,sunrise/sunset,0,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+e99e-df17,front,04,clear,night,slight cloudy,dark night,-5,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+e9b1-06a1,front,05,rainy,night,heavy rain,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+eab3-b333,front,03,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+eac9-b70e,front,07,cloudy,daytime,partial cloudy,noon,45,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+eb74-a787,front,04,cloudy,daytime,partial cloudy,noon,60,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+eb7a-1a97,front,06,foggy,daytime,heavy fog,noon,45,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+ebbc-78b6,front,04,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+ec82-65f2,front,10HD,clear,daytime,clear,noon,45,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+ee02-0545,front,06,rainy,dawn/dusk,mid rain,dawn/dusk,3,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+ee54-3636,front,01,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+eee8-14ce,front,06,clear,dawn/dusk,clear,dawn/dusk,3,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+efa6-3f20,front,06,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+efd5-2cec,front,07,clear,daytime,slight cloudy,morning/afternoon,15,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f016-c9aa,front,03,clear,daytime,slight cloudy,noon,75,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f068-2e34,front,07,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f06d-d817,front,10HD,clear,daytime,clear,noon,60,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f08b-6899,front,06,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+f08c-d310,front,01,rainy,daytime,small rain,noon,60,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+f0c9-e849,front,02,overcast,daytime,overcast,noon,45,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+f0d5-8645,front,07,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+f101-b1a5,front,01,overcast,daytime,overcast,noon,60,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+f142-b6af,front,02,foggy,night,small fog,night,-2,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+f165-d3bc,front,06,rainy,night,small rain,dark night,-5,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+f1d9-0f7d,front,06,clear,night,clear,dark night,-5,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f23f-2b18,front,07,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+f39b-50dc,front,02,rainy,dawn/dusk,mid rain,dawn/dusk,3,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+f3fa-4d5a,front,03,clear,daytime,slight cloudy,noon,60,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f403-2ebd,front,10HD,clear,dawn/dusk,slight cloudy,sunrise/sunset,0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f4e6-d691,front,06,cloudy,night,partial cloudy,dark night,-5,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f4f4-af47,front,04,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f5fc-9af2,front,07,clear,dawn/dusk,clear,dawn/dusk,3,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f609-2873,front,02,rainy,dawn/dusk,small rain,sunrise/sunset,0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+f6a2-f297,front,03,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f6fd-1c6f,front,05,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+f710-9b42,front,05,foggy,night,small fog,dark night,-5,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+f71b-1786,front,05,clear,daytime,slight cloudy,noon,75,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f750-f0a8,front,04,rainy,daytime,small rain,noon,45,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+f762-a568,front,05,clear,daytime,slight cloudy,noon,60,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f780-5f99,front,01,foggy,dawn/dusk,small fog,dawn/dusk,3,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+f7b7-7fbd,front,06,cloudy,night,partial cloudy,night,-2,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+f886-7b76,front,10HD,cloudy,night,partial cloudy,night,-2,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f897-e739,front,10HD,rainy,night,small rain,dark night,-5,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+f8c7-c3ea,front,02,rainy,dawn/dusk,heavy rain,dawn/dusk,3,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+f949-efc2,front,03,clear,night,clear,night,-2,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+f959-955b,front,06,foggy,daytime,small fog,morning/afternoon,15,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+f987-ee64,front,04,clear,dawn/dusk,clear,dawn/dusk,3,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f99c-ed1e,front,04,overcast,daytime,overcast,noon,45,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+f9af-0a5c,front,04,cloudy,daytime,partial cloudy,morning/afternoon,15,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+f9cd-2aea,front,10HD,clear,daytime,slight cloudy,noon,45,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+fa28-f906,front,10HD,clear,night,clear,dark night,-5,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+fab4-f909,front,06,rainy,night,mid rain,dark night,-5,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+fac4-080a,front,07,foggy,dawn/dusk,small fog,sunrise/sunset,0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+fac4-73b5,front,06,clear,daytime,slight cloudy,noon,75,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+fb34-d606,front,01,clear,daytime,slight cloudy,noon,75,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+fba3-0827,front,03,cloudy,daytime,partial cloudy,noon,45,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+fbbc-5ff9,front,07,foggy,daytime,heavy fog,noon,75,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+fc4f-a50a,front,10HD,overcast,night,overcast,night,-2,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+fc9c-6c32,front,03,rainy,night,heavy rain,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+fca9-3073,front,03,rainy,dawn/dusk,small rain,sunrise/sunset,0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+fce5-e33f,front,05,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+fd79-cc2a,front,07,foggy,daytime,small fog,morning/afternoon,15,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+fe82-b6e9,front,04,rainy,night,small rain,dark night,-5,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+fef4-2b15,front,05,overcast,daytime,overcast,morning/afternoon,15,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+fef9-9522,front,06,foggy,night,heavy fog,dark night,-5,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+ff10-9b38,front,03,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+ff1d-ec8a,front,02,clear,dawn/dusk,slight cloudy,dawn/dusk,3,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+ffa2-2442,front,06,clear,daytime,clear,morning/afternoon,15,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+fffd-3b47,front,02,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1

@@ -1,0 +1,123 @@
+video,view,town,shift_type,shift_length,start_weather_coarse,start_timeofday_coarse,start_weather_fine,start_timeofday_fine,start_sun_altitude_angle,start_cloudiness,start_precipitation,start_precipitation_deposits,start_wind_intensity,start_sun_azimuth_angle,start_fog_density,start_fog_distance,start_wetness,start_fog_falloff,end_weather_coarse,end_timeofday_coarse,end_weather_fine,end_timeofday_fine,end_sun_altitude_angle,end_cloudiness,end_precipitation,end_precipitation_deposits,end_wind_intensity,end_sun_azimuth_angle,end_fog_density,end_fog_distance,end_wetness,end_fog_falloff
+0080-33ee,front,02,daytime_to_night,400,clear,night,slight cloudy,dark night,90.0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,clear,night,slight cloudy,dark night,-5.0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+0427-3af1,front,05,daytime_to_night,400,clear,night,clear,night,90.0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,night,clear,night,-5.0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+0474-0263,front,05,daytime_to_night,400,clear,daytime,slight cloudy,noon,90.0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,clear,daytime,slight cloudy,noon,-5.0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+056d-87dc,front,10HD,daytime_to_night,400,overcast,night,overcast,night,90.0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1,overcast,night,overcast,night,-5.0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+05a0-5152,front,06,clear_to_rainy,400,clear,daytime,clear,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,clear,morning/afternoon,15,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+0663-0979,front,03,daytime_to_night,400,foggy,dawn/dusk,small fog,sunrise/sunset,90.0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2,foggy,dawn/dusk,small fog,sunrise/sunset,-5.0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+07dc-e564,front,01,clear_to_rainy,400,rainy,daytime,small rain,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,small rain,noon,75,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+085e-9ee4,front,10HD,clear_to_foggy,400,clear,dawn/dusk,clear,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,dawn/dusk,clear,dawn/dusk,3,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+0aad-3dea,front,06,daytime_to_night,400,rainy,daytime,heavy rain,morning/afternoon,90.0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1,rainy,daytime,heavy rain,morning/afternoon,-5.0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+0abe-00a8,front,02,daytime_to_night,400,foggy,night,heavy fog,night,90.0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2,foggy,night,heavy fog,night,-5.0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+1000-b9c9,front,01,daytime_to_night,400,cloudy,dawn/dusk,partial cloudy,dawn/dusk,90.0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1,cloudy,dawn/dusk,partial cloudy,dawn/dusk,-5.0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+1042-ba84,front,01,daytime_to_night,400,cloudy,dawn/dusk,partial cloudy,dawn/dusk,90.0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1,cloudy,dawn/dusk,partial cloudy,dawn/dusk,-5.0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+10dd-ae01,front,04,clear_to_rainy,400,clear,dawn/dusk,clear,sunrise/sunset,0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,dawn/dusk,clear,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+1243-36a4,front,07,clear_to_rainy,400,foggy,night,heavy fog,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,night,heavy fog,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+17de-69a8,front,03,clear_to_foggy,400,foggy,daytime,small fog,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,daytime,small fog,noon,60,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+1cac-7060,front,05,clear_to_rainy,400,rainy,dawn/dusk,heavy rain,sunrise/sunset,0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,dawn/dusk,heavy rain,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+1f78-36c9,front,10HD,clear_to_foggy,400,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,night,clear,dark night,-5,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+226f-7bec,front,04,clear_to_foggy,400,rainy,daytime,small rain,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,small rain,noon,75,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+2300-6335,front,06,clear_to_foggy,400,clear,daytime,clear,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,clear,noon,45,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+2307-fd36,front,07,clear_to_foggy,400,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,clear,noon,75,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+25b5-81fd,front,01,daytime_to_night,400,rainy,daytime,small rain,noon,90.0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1,rainy,daytime,small rain,noon,-5.0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+2645-7277,front,04,daytime_to_night,400,clear,dawn/dusk,slight cloudy,dawn/dusk,90.0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,clear,dawn/dusk,slight cloudy,dawn/dusk,-5.0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+270c-40b7,front,06,clear_to_foggy,400,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,clear,noon,75,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+279e-e7b5,front,05,clear_to_foggy,400,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,night,clear,dark night,-5,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+27b7-d044,front,06,daytime_to_night,400,rainy,dawn/dusk,heavy rain,dawn/dusk,90.0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1,rainy,dawn/dusk,heavy rain,dawn/dusk,-5.0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+2935-0cc0,front,03,daytime_to_night,400,rainy,daytime,heavy rain,noon,90.0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1,rainy,daytime,heavy rain,noon,-5.0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+2ebb-a386,front,05,daytime_to_night,400,overcast,dawn/dusk,overcast,dawn/dusk,90.0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1,overcast,dawn/dusk,overcast,dawn/dusk,-5.0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+2f32-03c7,front,04,clear_to_rainy,400,cloudy,daytime,partial cloudy,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,daytime,partial cloudy,noon,60,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+3131-af18,front,01,daytime_to_night,400,cloudy,night,partial cloudy,night,90.0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1,cloudy,night,partial cloudy,night,-5.0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+3269-1f92,front,07,clear_to_rainy,400,overcast,night,overcast,night,-2,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,overcast,night,overcast,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+3443-986b,front,03,clear_to_rainy,400,clear,dawn/dusk,slight cloudy,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,dawn/dusk,slight cloudy,dawn/dusk,3,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+3fbc-7308,front,02,clear_to_foggy,400,cloudy,daytime,partial cloudy,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,daytime,partial cloudy,noon,75,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+4031-af10,front,01,clear_to_foggy,400,rainy,dawn/dusk,small rain,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,dawn/dusk,small rain,dawn/dusk,3,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+4470-5030,front,06,clear_to_rainy,400,overcast,night,overcast,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,overcast,night,overcast,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+46a7-8120,front,04,daytime_to_night,400,clear,night,slight cloudy,night,90.0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,clear,night,slight cloudy,night,-5.0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4944-d316,front,07,daytime_to_night,400,clear,daytime,clear,noon,90.0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,clear,daytime,clear,noon,-5.0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4a68-60c9,front,04,clear_to_foggy,400,rainy,daytime,heavy rain,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,heavy rain,morning/afternoon,15,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+4ae6-29cf,front,06,daytime_to_night,400,clear,daytime,clear,noon,90.0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,clear,daytime,clear,noon,-5.0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+4e8b-2832,front,05,clear_to_foggy,400,clear,daytime,clear,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,clear,noon,60,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+55a5-4f3a,front,04,clear_to_foggy,400,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,night,clear,dark night,-5,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+5790-aca4,front,03,clear_to_foggy,400,foggy,daytime,small fog,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,daytime,small fog,noon,60,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+5bd7-b2b0,front,05,clear_to_rainy,400,clear,night,clear,night,-2,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,night,clear,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+5d19-2474,front,02,daytime_to_night,400,foggy,daytime,small fog,noon,90.0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2,foggy,daytime,small fog,noon,-5.0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+5d1c-8bae,front,05,clear_to_rainy,400,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,clear,noon,75,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+6334-07b0,front,04,clear_to_rainy,400,rainy,night,heavy rain,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,night,heavy rain,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+6490-d9f5,front,10HD,clear_to_rainy,400,rainy,daytime,mid rain,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,mid rain,noon,75,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+64ec-1924,front,02,daytime_to_night,400,clear,daytime,clear,noon,90.0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,clear,daytime,clear,noon,-5.0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+659d-e134,front,04,daytime_to_night,400,clear,daytime,clear,noon,90.0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,clear,daytime,clear,noon,-5.0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+65f3-f427,front,06,clear_to_foggy,400,cloudy,daytime,partial cloudy,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,daytime,partial cloudy,noon,45,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+661d-b669,front,03,clear_to_foggy,400,rainy,daytime,heavy rain,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,heavy rain,morning/afternoon,15,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+6886-710e,front,10HD,clear_to_rainy,400,cloudy,daytime,partial cloudy,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,daytime,partial cloudy,morning/afternoon,15,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+69d8-d898,front,05,clear_to_rainy,400,rainy,daytime,heavy rain,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,heavy rain,noon,60,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+6b67-0308,front,06,daytime_to_night,400,rainy,night,small rain,dark night,90.0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1,rainy,night,small rain,dark night,-5.0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+6caf-8e8c,front,04,clear_to_rainy,400,clear,daytime,clear,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,clear,noon,45,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+6dd6-72c3,front,07,clear_to_foggy,400,cloudy,daytime,partial cloudy,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,daytime,partial cloudy,noon,60,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+750e-5349,front,10HD,clear_to_rainy,400,rainy,night,heavy rain,night,-2,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,night,heavy rain,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+75b5-518b,front,02,clear_to_rainy,400,rainy,dawn/dusk,heavy rain,sunrise/sunset,0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,dawn/dusk,heavy rain,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+7682-bb15,front,04,clear_to_foggy,400,foggy,night,heavy fog,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,night,heavy fog,dark night,-5,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+7736-a81b,front,07,clear_to_foggy,400,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+7a73-541d,front,02,clear_to_foggy,400,clear,daytime,clear,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,clear,noon,75,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+81a8-48fe,front,04,clear_to_rainy,400,rainy,dawn/dusk,heavy rain,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,dawn/dusk,heavy rain,dawn/dusk,3,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+81e2-433e,front,01,clear_to_foggy,400,rainy,dawn/dusk,small rain,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,dawn/dusk,small rain,dawn/dusk,3,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+84a1-f850,front,02,clear_to_foggy,400,cloudy,night,partial cloudy,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,night,partial cloudy,dark night,-5,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+8a6f-8e0d,front,03,clear_to_rainy,400,clear,night,slight cloudy,night,-2,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,night,slight cloudy,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+8a7c-b0be,front,05,clear_to_foggy,400,foggy,daytime,heavy fog,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,daytime,heavy fog,noon,75,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+8d4e-12f9,front,06,clear_to_foggy,400,rainy,daytime,heavy rain,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,heavy rain,noon,45,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+8e5d-b048,front,03,clear_to_foggy,400,cloudy,daytime,partial cloudy,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,daytime,partial cloudy,noon,60,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+91fc-17b3,front,05,clear_to_rainy,400,foggy,night,small fog,night,-2,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,night,small fog,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+93e7-a27e,front,10HD,clear_to_foggy,400,foggy,night,small fog,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,night,small fog,dark night,-5,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+9825-582b,front,07,clear_to_foggy,400,clear,daytime,clear,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,clear,morning/afternoon,15,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+98db-2eea,front,06,daytime_to_night,400,cloudy,daytime,partial cloudy,noon,90.0,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,cloudy,daytime,partial cloudy,noon,-5.0,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+994d-b293,front,07,clear_to_rainy,400,rainy,night,heavy rain,night,-2,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,night,heavy rain,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+9a0f-dfe2,front,10HD,daytime_to_night,400,cloudy,night,partial cloudy,dark night,90.0,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,cloudy,night,partial cloudy,dark night,-5.0,30.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+9bd9-7782,front,01,clear_to_rainy,400,foggy,dawn/dusk,small fog,sunrise/sunset,0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,dawn/dusk,small fog,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+9c23-b016,front,05,clear_to_foggy,400,clear,daytime,slight cloudy,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,slight cloudy,noon,60,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+a3be-7cd9,front,06,clear_to_rainy,400,rainy,daytime,heavy rain,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,heavy rain,morning/afternoon,15,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+a40b-497d,front,05,clear_to_foggy,400,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,dawn/dusk,partial cloudy,dawn/dusk,3,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+a629-70a3,front,01,clear_to_rainy,400,foggy,daytime,heavy fog,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,daytime,heavy fog,noon,45,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+a821-d537,front,04,daytime_to_night,400,clear,daytime,clear,morning/afternoon,90.0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,clear,morning/afternoon,-5.0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+aa16-d9c1,front,04,daytime_to_night,400,foggy,dawn/dusk,heavy fog,dawn/dusk,90.0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2,foggy,dawn/dusk,heavy fog,dawn/dusk,-5.0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+ad0c-ee3f,front,07,daytime_to_night,400,overcast,dawn/dusk,overcast,dawn/dusk,90.0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1,overcast,dawn/dusk,overcast,dawn/dusk,-5.0,95.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+af03-dae2,front,04,daytime_to_night,400,rainy,dawn/dusk,small rain,dawn/dusk,90.0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1,rainy,dawn/dusk,small rain,dawn/dusk,-5.0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
+afb1-da5a,front,07,clear_to_rainy,400,rainy,daytime,small rain,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,small rain,morning/afternoon,15,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+b147-a8f4,front,04,clear_to_foggy,400,rainy,daytime,mid rain,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,mid rain,noon,45,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+b6fc-0691,front,02,daytime_to_night,400,clear,dawn/dusk,slight cloudy,sunrise/sunset,90.0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,clear,dawn/dusk,slight cloudy,sunrise/sunset,-5.0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+b719-87ba,front,01,clear_to_foggy,400,rainy,daytime,heavy rain,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,heavy rain,noon,60,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+b7f8-4d75,front,06,clear_to_foggy,400,cloudy,daytime,partial cloudy,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,daytime,partial cloudy,morning/afternoon,15,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+b8d9-9792,front,02,clear_to_foggy,400,cloudy,daytime,partial cloudy,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,daytime,partial cloudy,morning/afternoon,15,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+b8ea-ca5f,front,04,clear_to_rainy,400,foggy,night,heavy fog,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,night,heavy fog,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+b94c-7abd,front,06,clear_to_rainy,400,foggy,dawn/dusk,small fog,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,dawn/dusk,small fog,dawn/dusk,3,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+b968-e9c9,front,02,daytime_to_night,400,clear,daytime,clear,noon,90.0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,clear,daytime,clear,noon,-5.0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+ba8a-8bc0,front,03,clear_to_foggy,400,cloudy,night,partial cloudy,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,night,partial cloudy,dark night,-5,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+bb22-501c,front,05,clear_to_rainy,400,overcast,dawn/dusk,overcast,sunrise/sunset,0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,overcast,dawn/dusk,overcast,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+bdbf-1646,front,01,daytime_to_night,400,cloudy,daytime,partial cloudy,noon,90.0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1,cloudy,daytime,partial cloudy,noon,-5.0,50.0,0.0,0.0,10.0,0.0,3.0,0.75,0.0,0.1
+c786-04d5,front,06,daytime_to_night,400,foggy,night,small fog,dark night,90.0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2,foggy,night,small fog,dark night,-5.0,60.0,0,10.0,10.0,0.0,30.0,15.0,0.0,0.2
+c866-f960,front,06,daytime_to_night,400,clear,night,slight cloudy,night,90.0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,clear,night,slight cloudy,night,-5.0,15.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+caf7-70d6,front,10HD,clear_to_rainy,400,cloudy,night,partial cloudy,night,-2,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,night,partial cloudy,night,-2,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+cbd6-20ea,front,07,clear_to_foggy,400,cloudy,daytime,partial cloudy,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,daytime,partial cloudy,noon,60,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+d09a-75e9,front,07,daytime_to_night,400,clear,dawn/dusk,clear,dawn/dusk,90.0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1,clear,dawn/dusk,clear,dawn/dusk,-5.0,5.0,0.0,0.0,10.0,0.0,1.0,0.75,0.0,0.1
+d38d-6f76,front,06,clear_to_foggy,400,cloudy,daytime,partial cloudy,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,daytime,partial cloudy,noon,45,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+d3d8-db56,front,05,clear_to_foggy,400,overcast,daytime,overcast,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,overcast,daytime,overcast,noon,75,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+d551-42ed,front,10HD,clear_to_foggy,400,foggy,dawn/dusk,heavy fog,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,dawn/dusk,heavy fog,dawn/dusk,3,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+d6d0-9e30,front,04,clear_to_foggy,400,rainy,dawn/dusk,mid rain,sunrise/sunset,0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,dawn/dusk,mid rain,sunrise/sunset,0,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+d7ac-c62d,front,04,daytime_to_night,400,rainy,dawn/dusk,heavy rain,sunrise/sunset,90.0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1,rainy,dawn/dusk,heavy rain,sunrise/sunset,-5.0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+dbff-8a5b,front,07,clear_to_foggy,400,rainy,night,heavy rain,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,night,heavy rain,dark night,-5,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+ddba-0b35,front,03,daytime_to_night,400,rainy,night,mid rain,dark night,90.0,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1,rainy,night,mid rain,dark night,-5.0,80.0,50.0,80.0,60.0,0.0,3.0,0.75,0.0,0.1
+e3a7-8f48,front,07,clear_to_rainy,400,clear,daytime,clear,noon,45,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,clear,noon,45,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+e3b3-b894,front,04,clear_to_rainy,400,rainy,daytime,small rain,noon,75,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,small rain,noon,75,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+e638-7252,front,04,clear_to_foggy,400,foggy,night,heavy fog,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,night,heavy fog,dark night,-5,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+eb55-22a5,front,01,daytime_to_night,400,clear,daytime,clear,noon,90.0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,clear,noon,-5.0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+ec74-748a,front,01,clear_to_foggy,400,clear,night,clear,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,night,clear,dark night,-5,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+efe9-7187,front,01,clear_to_foggy,400,clear,daytime,slight cloudy,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,daytime,slight cloudy,noon,60,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+f239-3c05,front,06,clear_to_rainy,400,rainy,dawn/dusk,small rain,sunrise/sunset,0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,dawn/dusk,small rain,sunrise/sunset,0,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+f40a-cd49,front,06,clear_to_foggy,400,cloudy,night,partial cloudy,night,-2,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,night,partial cloudy,night,-2,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+f52d-3a55,front,04,clear_to_foggy,400,foggy,daytime,heavy fog,noon,60,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,foggy,daytime,heavy fog,noon,60,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+f57b-01fa,front,02,daytime_to_night,400,foggy,daytime,heavy fog,noon,90.0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2,foggy,daytime,heavy fog,noon,-5.0,80.0,0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+f765-9377,front,03,clear_to_rainy,400,cloudy,night,partial cloudy,dark night,-5,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,cloudy,night,partial cloudy,dark night,-5,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+f8cf-f885,front,06,daytime_to_night,400,clear,night,clear,dark night,90.0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,night,clear,dark night,-5.0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+fafc-cc67,front,05,daytime_to_night,400,clear,dawn/dusk,clear,sunrise/sunset,90.0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,clear,dawn/dusk,clear,sunrise/sunset,-5.0,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1
+fc6f-9b9f,front,01,clear_to_rainy,400,rainy,daytime,mid rain,morning/afternoon,15,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,rainy,daytime,mid rain,morning/afternoon,15,100.0,100.0,100.0,100.0,0.0,7.0,0.75,0.0,0.1
+fd0f-0910,front,01,clear_to_foggy,400,overcast,dawn/dusk,overcast,dawn/dusk,3,0.0,0.0,0.0,10.0,0.0,0.1,0.75,0.0,0.1,overcast,dawn/dusk,overcast,dawn/dusk,3,80.0,0.0,10.0,10.0,0.0,90.0,20.0,0.0,0.2
+fd66-0e20,front,04,daytime_to_night,400,rainy,daytime,small rain,noon,90.0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1,rainy,daytime,small rain,noon,-5.0,70.0,20.0,60.0,30.0,0.0,3.0,0.75,0.0,0.1
